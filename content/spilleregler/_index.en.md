@@ -4,6 +4,9 @@ id: 5f3cb3d3-4af7-4b7d-b915-0f0e6183d349
 title: "Rules of engagement"
 linkTitle: "Rules of engagement"
 weight: 20
+lastmod: 2026-05-18T00:13:13+02:00
+last_editor: Erik Hagen
+
 ---
 
 To ensure the open market dialogue is useful for everyone and legally sound, the following rules apply.

@@ -4,6 +4,9 @@ id: a8da7cc7-ef5c-441e-9fea-65a202ada1ee
 title: "Om markedsdialog"
 linkTitle: "Om markedsdialog"
 weight: 10
+lastmod: 2026-05-18T00:13:13+02:00
+last_editor: Erik Hagen
+
 ---
 
 ## Hva er markedsdialog?
