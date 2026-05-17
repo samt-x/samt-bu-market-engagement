@@ -1,6 +1,6 @@
 ---
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
-id: placeholder
+id: 5f3cb3d3-4af7-4b7d-b915-0f0e6183d349
 title: "Spilleregler"
 linkTitle: "Spilleregler"
 weight: 20
