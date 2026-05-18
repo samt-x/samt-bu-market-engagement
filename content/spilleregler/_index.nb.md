@@ -1,14 +1,13 @@
 ---
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
 id: 5f3cb3d3-4af7-4b7d-b915-0f0e6183d349
-title: "Spilleregler"
-linkTitle: "Spilleregler"
+title: Spilleregler
+linkTitle: Spilleregler
 weight: 20
 lastmod: 2026-05-18T00:13:13+02:00
 last_editor: Erik Hagen
 
 ---
-
 For at den åpne markedsdialogen skal være nyttig for alle og juridisk ryddig, gjelder noen spilleregler.
 
 ## Hvordan bidra
@@ -18,8 +17,6 @@ Du kan bidra på flere måter:
 - **Foreslå endring** – klikk «Foreslå endring» øverst på en side for å redigere innhold direkte. Endringen din blir et forslag som vi vurderer og kommenterer åpent.
 - **Foreslå nytt kapittel** – samme mekanisme for å legge til ny side.
 - **Gi en kommentar** – mindre innspill kan legges inn via kommentarfunksjonen øverst på siden.
-
-Du kan bidra på norsk eller engelsk.
 
 ## Rettigheter til innspill
 
