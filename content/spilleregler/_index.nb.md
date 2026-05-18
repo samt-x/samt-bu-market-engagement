@@ -4,7 +4,7 @@ id: 5f3cb3d3-4af7-4b7d-b915-0f0e6183d349
 title: Spilleregler
 linkTitle: Spilleregler
 weight: 20
-lastmod: 2026-05-18T00:13:13+02:00
+lastmod: 2026-05-18T17:40:20+02:00
 last_editor: Erik Hagen
 
 ---
