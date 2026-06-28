@@ -1,6 +1,6 @@
 ---
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
-id:
+id: 1bfad924-b3bf-42a9-aaa2-d8789c212b87
 title: "Generelt om markedsdialoger"
 linkTitle: "Generelt om markedsdialoger"
 weight: 10

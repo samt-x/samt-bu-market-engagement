@@ -1,6 +1,6 @@
 ---
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
-id:
+id: 407fca6a-5215-4912-8e10-1c0935f17055
 title: "Practical guidance"
 linkTitle: "Practical guidance"
 weight: 30

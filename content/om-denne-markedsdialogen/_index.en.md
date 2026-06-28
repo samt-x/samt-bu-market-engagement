@@ -1,6 +1,6 @@
 ---
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
-id:
+id: 824636b5-a24e-453d-864d-b5ffa2f93c88
 title: "About this market dialogue"
 linkTitle: "About this market dialogue"
 weight: 10
