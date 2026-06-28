@@ -4,6 +4,9 @@ id: 407fca6a-5215-4912-8e10-1c0935f17055
 title: "Practical guidance"
 linkTitle: "Practical guidance"
 weight: 30
+lastmod: 2026-06-28T23:32:58+02:00
+last_editor: Erik Hagen
+
 ---
 
 You can contribute with input in several ways – as a suggested change to existing pages, a proposed new page, or a comment.

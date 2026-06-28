@@ -4,6 +4,9 @@ id: 407fca6a-5215-4912-8e10-1c0935f17055
 title: "Praktisk veiledning"
 linkTitle: "Praktisk veiledning"
 weight: 30
+lastmod: 2026-06-28T23:32:58+02:00
+last_editor: Erik Hagen
+
 ---
 
 Du kan bidra med innspill på flere måter – som forslag til endring av eksisterende sider, forslag til nye sider, eller kommentarer.

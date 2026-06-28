@@ -4,6 +4,9 @@ id: a1c29b0c-8f98-4d47-93c5-98b5a8de35ac
 title: "Spilleregler"
 linkTitle: "Spilleregler"
 weight: 20
+lastmod: 2026-06-28T23:32:58+02:00
+last_editor: Erik Hagen
+
 ---
 
 For at den åpne markedsdialogen skal være nyttig for alle og juridisk ryddig, gjelder noen spilleregler.
