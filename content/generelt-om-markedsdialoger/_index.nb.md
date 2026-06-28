@@ -4,7 +4,7 @@ id: 1bfad924-b3bf-42a9-aaa2-d8789c212b87
 title: "Generelt om markedsdialoger"
 linkTitle: "Generelt om markedsdialoger"
 weight: 10
-lastmod: 2026-06-29T00:02:14+02:00
+lastmod: 2026-06-29T00:21:42+02:00
 last_editor: Erik Hagen
 
 ---
