@@ -14,6 +14,17 @@ Formålet er å innhente kunnskap og innspill fra markedet – leverandører, fa
 
 Vi gjennomfører dialogen åpent og skriftlig på dette nettstedet, som ett av flere ledd i prosessen. Det gir alle interessenter lik tilgang til informasjon og innspill, og gjør det mulig å dokumentere likebehandling på en etterprøvbar måte.
 
+## Hvorfor åpent og skriftlig?
+
+Tradisjonell markedsdialog skjer ofte gjennom møter, RFI-er eller bilaterale samtaler. Det fungerer, men har noen svakheter:
+
+- Informasjon spres ujevnt – noen leverandører får vite mer enn andre
+- Det er vanskelig å dokumentere at likebehandlingsprinsippet er overholdt
+- Innspill drukner i e-posttråder og blir ikke tilgjengelige for andre
+- Små aktører med gode ideer faller utenfor fordi de ikke er på distribusjonslisten
+
+Ved å gjøre dialogen i åpne, versjonskontrollerte dokumenter på dette nettstedet løser vi flere av disse problemene samtidig. Alle ser det samme, alt er sporbart, og terskelen for å bidra er lav.
+
 ## Rettigheter til innspill
 
 Ved å bidra med innspill her aksepterer du at innspillet er offentlig tilgjengelig og kan brukes av oppdragsgiver i utforming av kravspesifikasjon, konkurransegrunnlag og videre arbeid, uten krav om vederlag eller særskilt samtykke utover dette.

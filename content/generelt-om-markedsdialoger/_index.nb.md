@@ -15,17 +15,6 @@ Markedsdialog er kommunikasjon mellom oppdragsgiver og markedet *før* en anskaf
 
 For komplekse og innovative anskaffelser er markedsdialog ikke bare tillatt, men sterkt anbefalt – og i praksis nesten nødvendig.
 
-## Hvorfor gjør vi det åpent og skriftlig?
-
-Tradisjonell markedsdialog skjer ofte gjennom møter, RFI-er (Request for Information) eller bilaterale samtaler. Det fungerer, men har noen svakheter:
-
-- Informasjon spres ujevnt – noen leverandører får vite mer enn andre
-- Det er vanskelig å dokumentere at likebehandlingsprinsippet er overholdt
-- Innspill drukner i e-posttråder og blir ikke tilgjengelige for andre
-- Små aktører med gode ideer faller utenfor fordi de ikke er på distribusjonslisten
-
-Ved å gjøre dialogen i åpne, versjonskontrollerte dokumenter løser vi flere av disse problemene samtidig. Alle ser det samme, alt er sporbart, og terskelen for å bidra er lav.
-
 ## Juridisk forankring
 
 Markedsdialog er hjemlet i anskaffelsesforskriften og fremheves spesielt for innovative anskaffelser og forskning og utvikling. Grunnprinsippene om likebehandling, gjennomsiktighet og etterprøvbarhet (lov om offentlige anskaffelser § 4) er ikke bare etterlevd i denne tilnærmingen – de er innbygd i metoden. Åpne, skriftlige innspill med tidsstempel og versjonskontroll gjør det mulig å dokumentere etterlevelse på en måte som lukkede møter og e-post ikke kan.
