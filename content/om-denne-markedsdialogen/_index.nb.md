@@ -4,7 +4,7 @@ id: 824636b5-a24e-453d-864d-b5ffa2f93c88
 title: "Om denne markedsdialogen"
 linkTitle: "Om denne markedsdialogen"
 weight: 20
-lastmod: 2026-06-28T23:32:58+02:00
+lastmod: 2026-06-29T00:02:14+02:00
 last_editor: Erik Hagen
 ---
 
