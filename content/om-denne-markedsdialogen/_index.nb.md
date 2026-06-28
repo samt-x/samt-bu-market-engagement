@@ -52,6 +52,8 @@ Gjeldende status og eventuelle frister er oppgitt på den aktuelle dialogsiden. 
 
 ## Habilitet
 
-Rådgivere og konsulenter som bidrar her, og som senere ønsker å delta i en konkurranse basert på dialogen, må være oppmerksomme på habilitetsspørsmål. Å bidra til en åpen markedsdialog diskvalifiserer ikke automatisk fra senere deltakelse, men kan i enkelttilfeller utløse avbøtende tiltak – for eksempel krav om ekstra gjennomsiktighet i tilbudsevalueringen eller i ytterste konsekvens utelukkelse fra konkurransen. Vurderingen gjøres av oppdragsgiver på individuell basis.
+Å delta i en markedsdialog diskvalifiserer deg ikke fra å konkurrere om en eventuell senere anskaffelse. Det slår anskaffelsesforskriften § 24-3 fast: utelukkelse er bare aktuelt som en siste utvei dersom det ikke finnes andre måter å sikre likebehandling på.
 
-Ta kontakt hvis du er usikker; se [Kontakt oss](/om/#kontakt-oss) for e-postadresse.
+Den åpne, skriftlige formen her er nettopp utformet for å møte dette kravet: alle innspill er synlige for alle, og ingen aktør sitter på informasjon som ikke er tilgjengelig for de øvrige. Denne åpenheten er i seg selv det «egnede tiltaket» loven krever – og gjør utelukkelse i praksis svært lite aktuelt.
+
+Har du spørsmål om din konkrete situasjon, er du velkommen til å ta kontakt; se [Kontakt oss](/om/#kontakt-oss) for e-postadresse.
