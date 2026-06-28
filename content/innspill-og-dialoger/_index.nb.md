@@ -1,6 +1,6 @@
 ---
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
-id:
+id: 79a11726-cb37-425d-87dd-dd784b812a86
 title: "Innspill og dialoger"
 linkTitle: "Innspill og dialoger"
 weight: 40
