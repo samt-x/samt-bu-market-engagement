@@ -1,13 +1,11 @@
 ---
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
-id: a8da7cc7-ef5c-441e-9fea-65a202ada1ee
-title: Om markedsdialog
-linkTitle: Om markedsdialog
+id:
+title: "Generelt om markedsdialoger"
+linkTitle: "Generelt om markedsdialoger"
 weight: 10
-lastmod: 2026-06-28T22:32:56+02:00
-last_editor: Erik Hagen
-
 ---
+
 ## Hva er en markedsdialog?
 
 Markedsdialog er kommunikasjon mellom oppdragsgiver og markedet *før* en anskaffelse kunngjøres. Målet er ikke å forhandle om en konkret avtale, men å forstå hva som er teknisk og kommersielt mulig, å avklare behov, og å la markedet bidra til å forme problemstillingen.
@@ -27,9 +25,7 @@ Ved å gjøre dialogen i åpne, versjonskontrollerte dokumenter løser vi flere 
 
 ## Juridisk forankring
 
-Markedsdialog er hjemlet i anskaffelsesforskriften og fremheves spesielt for innovative anskaffelser og forskning og utvikling. Grunnprinsippene om likebehandling, gjennomsiktighet og etterprøvbarhet (lov om offentlige anskaffelser § 4). \
-\
-<https://docs.samt-bu.no/ekstern-markedsdialog> understøtter dette gjennom åpne, skriftlige innspill og svar med sporing. 
+Markedsdialog er hjemlet i anskaffelsesforskriften og fremheves spesielt for innovative anskaffelser og forskning og utvikling. Grunnprinsippene om likebehandling, gjennomsiktighet og etterprøvbarhet (lov om offentlige anskaffelser § 4) er ikke bare etterlevd i denne tilnærmingen – de er innbygd i metoden. Åpne, skriftlige innspill med tidsstempel og versjonskontroll gjør det mulig å dokumentere etterlevelse på en måte som lukkede møter og e-post ikke kan.
 
 ## Forholdet til konkrete anskaffelser
 
