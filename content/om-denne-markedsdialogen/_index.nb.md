@@ -54,4 +54,4 @@ Gjeldende status og eventuelle frister er oppgitt på den aktuelle dialogsiden. 
 
 Rådgivere og konsulenter som bidrar her, og som senere ønsker å delta i en konkurranse basert på dialogen, må være oppmerksomme på habilitetsspørsmål. Å bidra til en åpen markedsdialog diskvalifiserer ikke automatisk fra senere deltakelse, men kan i enkelttilfeller utløse avbøtende tiltak – for eksempel krav om ekstra gjennomsiktighet i tilbudsevalueringen eller i ytterste konsekvens utelukkelse fra konkurransen. Vurderingen gjøres av oppdragsgiver på individuell basis.
 
-Ta kontakt hvis du er usikker; se [Kontakt oss](/om/kontakt-oss/) for e-postadresse.
+Ta kontakt hvis du er usikker; se [Kontakt oss](/om/#kontakt-oss) for e-postadresse.
