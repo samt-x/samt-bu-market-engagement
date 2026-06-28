@@ -8,6 +8,8 @@ lastmod: 2026-06-29T00:21:42+02:00
 last_editor: Erik Hagen
 ---
 
+## Bakgrunn og formål
+
 Denne markedsdialogen er en del av prosjektet *Felles løft: Sammenhengende tjenester for barn og unge*, ledet av Digitaliseringsdirektoratet (Digdir) i samarbeid med KS, Utdanningsdirektoratet, HK-dir, Sikt, Novari, SSB og Statsforvalternes fellestjenester.
 
 Formålet er å innhente kunnskap og innspill fra markedet – leverandører, fag- og forskningsmiljøer og oppstartsselskaper – om behov, muligheter og løsninger innenfor sammenhengende tjenester for barn og unge. Dialogen er kunngjort som en veiledende kunngjøring (RFI) på Doffin (ref. 2026-109852) og innebærer ingen forpliktelse til kjøp eller anskaffelse.
@@ -46,8 +48,10 @@ Dialogen gjennomføres i flere ledd:
 5. **Oppsummering** – vi sammenstiller hva som har kommet inn og hva det betyr for videre arbeid
 6. **Lukking** – dialogen avsluttes formelt; videre prosess følger ordinære anskaffelseskanaler
 
-Gjeldende status og eventuelle frister er oppgitt på den aktuelle dialogsiden.
+Gjeldende status og eventuelle frister er oppgitt på den aktuelle dialogsiden. SAMT-BU kan gjennomføre flere parallelle eller sekvensielle dialoger over tid, knyttet til ulike faser eller delområder av prosjektet.
 
 ## Habilitet
 
-Rådgivere og konsulenter som bidrar her, og som senere ønsker å delta i en konkurranse basert på dialogen, må være oppmerksomme på habilitetsspørsmål. Bidrag til en åpen markedsdialog diskvalifiserer ikke fra senere deltakelse, men kan i enkelte tilfeller utløse avbøtende tiltak. Ta kontakt hvis du er usikker.
+Rådgivere og konsulenter som bidrar her, og som senere ønsker å delta i en konkurranse basert på dialogen, må være oppmerksomme på habilitetsspørsmål. Å bidra til en åpen markedsdialog diskvalifiserer ikke automatisk fra senere deltakelse, men kan i enkelttilfeller utløse avbøtende tiltak – for eksempel krav om ekstra gjennomsiktighet i tilbudsevalueringen eller i ytterste konsekvens utelukkelse fra konkurransen. Vurderingen gjøres av oppdragsgiver på individuell basis.
+
+Ta kontakt hvis du er usikker; se [Kontakt oss](/om/kontakt-oss/) for e-postadresse.

@@ -21,6 +21,4 @@ Markedsdialog er hjemlet i anskaffelsesforskriften og fremheves spesielt for inn
 
 ## Forholdet til konkrete anskaffelser
 
-En åpen markedsdialog her erstatter ikke selve anskaffelsesprosessen. Når vi går fra dialog til konkurranse, gjøres det på vanlig måte – typisk gjennom kunngjøring på Doffin. Pågående dialoger som gjelder aktuell anskaffelse lukkes i forkant av kunngjøring, og videre kommunikasjon skjer gjennom de formelle kanalene.
-
-Vi kan ha flere parallelle eller sekvensielle dialoger over tid, knyttet til ulike faser eller delområder av SAMT-BU.
+En åpen markedsdialog erstatter ikke selve anskaffelsesprosessen. Når oppdragsgiver går fra dialog til konkurranse, gjøres det på vanlig måte – typisk gjennom kunngjøring på Doffin. Pågående dialoger som gjelder aktuell anskaffelse lukkes i forkant av kunngjøring, og videre kommunikasjon skjer gjennom de formelle kanalene.
