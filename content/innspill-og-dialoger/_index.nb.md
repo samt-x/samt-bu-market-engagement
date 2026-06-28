@@ -4,6 +4,9 @@ id: 79a11726-cb37-425d-87dd-dd784b812a86
 title: "Innspill og dialoger"
 linkTitle: "Innspill og dialoger"
 weight: 40
+lastmod: 2026-06-29T01:58:39+02:00
+last_editor: Erik Hagen
+
 ---
 
 Her dokumenteres innspill og dialoger knyttet til SAMT-BU-prosjektets markedsdialog. Du bidrar på samme måte som ellers på nettstedet: klikk «Foreslå endring» øverst på en side for å foreslå endringer eller legge til nytt innhold – bidraget ditt havner da som et forslag (pull request) som behandles åpent.
