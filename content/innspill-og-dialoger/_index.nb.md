@@ -4,7 +4,7 @@ id: 79a11726-cb37-425d-87dd-dd784b812a86
 title: "Innspill og dialoger"
 linkTitle: "Innspill og dialoger"
 weight: 40
-lastmod: 2026-06-29T01:58:39+02:00
+lastmod: 2026-06-29T02:22:09+02:00
 last_editor: Erik Hagen
 
 ---
