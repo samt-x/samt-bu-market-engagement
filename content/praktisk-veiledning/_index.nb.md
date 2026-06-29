@@ -15,10 +15,16 @@ Markedsdialogen gjelder digitale løsninger for sammenhengende tjenester til bar
 
 Nærmere beskrivelse av spørsmål vi ønsker belyst vil også bli lagt ut under [Innspill og dialoger](/ekstern-markedsdialog/innspill-og-dialoger/) etter hvert.
 
-## Hvordan bidrar du?
+## Hvordan bidra
 
-Du kan bidra med innspill på flere måter – som forslag til endring av eksisterende sider, forslag til nye sider, eller kommentarer.
+### Direkte på nettstedet (foretrukket)
+
+Foretrukken måte er å bidra direkte på dette nettstedet – som forslag til endring av eksisterende sider, forslag til nye sider, eller kommentarer. Innspill og dialog som skjer her, regnes som et fullverdig alternativ til tradisjonell journalføring. Vi arbeider med offisiell godkjenning av løsningen for dette formålet.
 
 Detaljert veiledning om de ulike bidragsformene, inkludert steg-for-steg-instruksjoner, finnes i [Hvordan bidra](/hvordan-bidra/).
 
 Du kan bidra på norsk eller engelsk.
+
+### Via e-post
+
+Det er også mulig å sende innspill via e-post til adressen oppgitt under [Kontakt oss](/om/#kontakt-oss). Innspill mottatt per e-post vil journalføres og senere bli gjengitt og referert til av Digdir under [Innspill og dialoger](/ekstern-markedsdialog/innspill-og-dialoger/).
