@@ -9,9 +9,9 @@ last_editor: Erik Hagen
 
 ---
 
-Her dokumenteres innspill og dialoger knyttet til SAMT-BU-prosjektets markedsdialog. Du bidrar på samme måte som ellers på nettstedet: klikk «Foreslå endring» øverst på en side for å foreslå endringer eller legge til nytt innhold – bidraget ditt havner da som et forslag (pull request) som behandles åpent.
+Her dokumenteres innspill og dialoger knyttet til SAMT-BU-prosjektets markedsdialog. Se [Praktisk veiledning](/ekstern-markedsdialog/praktisk-veiledning/) for informasjon om hva vi ønsker innspill på og hvordan du bidrar.
 
-Den pågående markedsdialogen er kunngjort som RFI på Doffin (ref. [2026-109852](https://doffin.no/notices/2026-109852)). Nærmere beskrivelse av temaer og spørsmål vi ønsker innspill på vil bli lagt ut her etter hvert.
+Den pågående markedsdialogen er kunngjort som RFI på Doffin (ref. [2026-109852](https://doffin.no/notices/2026-109852)) og omtalt på [digdir.no](https://www.digdir.no/sammenhengende-tjenester/markedsdialog-om-felles-loft-sammenhengende-tjenester-barn-og-unge/8146). Nærmere beskrivelse av temaer og spørsmål vi ønsker innspill på vil bli lagt ut her etter hvert.
 
 ---
 
