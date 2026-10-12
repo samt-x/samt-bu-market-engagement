@@ -5,6 +5,9 @@ linkTitle: Collaboration with the private market
 weight: 20
 status: New
 # Valid values: New | Early draft | In progress | For QA | Approved | Cancelled
+lastmod: 2026-10-12T13:44:21+02:00
+last_editor: Erik Hagen
+
 ---
 
 I would like to propose a project that does the following:

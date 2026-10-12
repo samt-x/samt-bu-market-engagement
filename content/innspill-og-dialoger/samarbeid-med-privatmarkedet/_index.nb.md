@@ -5,6 +5,9 @@ linkTitle: Samarbeid med privatmarkedet
 weight: 20
 status: Ny
 # Gyldige verdier: Ny | Tidlig utkast | Pågår | Til QA | Godkjent | Avbrutt
+lastmod: 2026-10-12T13:44:21+02:00
+last_editor: Erik Hagen
+
 ---
 
 Jeg ønsker gjerne å foreslå et prosjekt der man gjør følgende:
