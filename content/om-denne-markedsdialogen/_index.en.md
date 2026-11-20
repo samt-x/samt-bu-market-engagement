@@ -4,7 +4,7 @@ id: 824636b5-a24e-453d-864d-b5ffa2f93c88
 title: "About this market dialogue"
 linkTitle: "About this market dialogue"
 weight: 20
-lastmod: 2026-11-02T21:32:12+01:00
+lastmod: 2026-11-20T02:42:41+01:00
 last_editor: Erik Hagen
 ---
 
