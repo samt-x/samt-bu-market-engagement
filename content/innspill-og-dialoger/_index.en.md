@@ -15,4 +15,4 @@ The ongoing market dialogue has been announced as an RFI on Doffin (ref. [2026-1
 
 ---
 
-*This section concerns input to the market dialogue. If you have input to the content of the website in general – professional proposals, corrections or new chapters outside the market dialogue – it belongs under [Inputs and drafts](/en/utkast/).*
+*This section concerns input to the market dialogue. If you have input to the content of the website in general – professional proposals, corrections or new chapters outside the market dialogue – it belongs under [Drafts and input](/en/utkast/).*

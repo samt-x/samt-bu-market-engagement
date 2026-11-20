@@ -10,9 +10,9 @@ last_editor: Erik Hagen
 
 ## Background and purpose
 
-This market dialogue is part of the project *Felles løft: Sammenhengende tjenester for barn og unge* (Joint effort: Coherent services for children and young people), led by the Norwegian Digitalisation Agency (Digdir) in cooperation with KS, the Norwegian Directorate for Education and Training, HK-dir, Sikt, Novari, Statistics Norway (SSB) and the County Governors' Joint Services (Statsforvalternes fellestjenester).
+This market dialogue is part of the project *Felles løft: Sammenhengende tjenester for barn og unge* (Joint effort: Seamless services for children and young people), led by the Norwegian Digitalisation Agency (Digdir) in cooperation with KS, the Norwegian Directorate for Education and Training (Udir), HK-dir, Sikt, Novari, Statistics Norway (SSB) and the County Governors' Joint Services (Statsforvalternes fellestjenester).
 
-The purpose is to gather knowledge and input from the market – suppliers, professional and research communities and start-ups – about needs, opportunities and solutions within coherent services for children and young people. The dialogue has been announced as a prior information notice (RFI) on Doffin (ref. 2026-109852) and entails no obligation to purchase or procure.
+The purpose is to gather knowledge and input from the market – suppliers, professional and research communities and start-ups – about needs, opportunities and solutions within seamless services for children and young people. The dialogue has been announced as a prior information notice (RFI) on Doffin (ref. 2026-109852) and entails no obligation to purchase or procure.
 
 We conduct the dialogue openly and in writing on this website, as one of several steps in the process. This gives all stakeholders equal access to information and input, and makes it possible to document equal treatment in a verifiable way.
 

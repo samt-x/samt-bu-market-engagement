@@ -11,7 +11,7 @@ last_editor: Erik Hagen
 
 ## What would we like input on?
 
-The market dialogue concerns digital solutions for coherent services for children and young people (SAMT-BU). Topics and questions are set out in the announcement on [Doffin (2026-109852)](https://doffin.no/notices/2026-109852) and in the background information on [digdir.no](https://www.digdir.no/sammenhengende-tjenester/markedsdialog-om-felles-loft-sammenhengende-tjenester-barn-og-unge/8146).
+The market dialogue concerns digital solutions for seamless services for children and young people (SAMT-BU). Topics and questions are set out in the announcement on [Doffin (2026-109852)](https://doffin.no/notices/2026-109852) and in the background information on [digdir.no](https://www.digdir.no/sammenhengende-tjenester/markedsdialog-om-felles-loft-sammenhengende-tjenester-barn-og-unge/8146).
 
 A more detailed description of the questions we would like to have explored will also be posted under [Submissions and dialogues](/en/ekstern-markedsdialog/innspill-og-dialoger/) in due course.
 
